@@ -1,0 +1,23 @@
+server:
+  port: 9999  
+spring: 
+  application:
+    name: job-service
+zuul:
+  routes:
+    POC_5:
+      path: /poc/**
+      url: http://localhost:8077/
+      sensitiveHeaders: Cookie,Set-Cookie
+      stripPrefix: false
+     
+eureka:
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+      instance:
+       hostname: localhost
+    server:
+       enableSelfPreservation: false

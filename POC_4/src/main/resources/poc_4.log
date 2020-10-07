@@ -1,0 +1,322 @@
+2020-09-23 19:48:00 DEBUG Incoming request user controller : User [id=null, userName=Hash107]
+2020-09-23 19:48:00 DEBUG Incoming request user service : User [id=null, userName=Hash107]
+2020-09-24 10:16:11 DEBUG Incoming request user controller : User [id=null, userName=Hash108]
+2020-09-24 10:16:11 DEBUG Incoming request user service : User [id=null, userName=Hash108]
+2020-09-24 10:16:57 DEBUG Incoming request user controller : User [id=null, userName=Hash110]
+2020-09-24 10:16:57 DEBUG Incoming request user service : User [id=null, userName=Hash110]
+2020-09-24 10:17:40 DEBUG Incoming request user controller : User [id=null, userName=Hash111]
+2020-09-24 10:17:40 DEBUG Incoming request user service : User [id=null, userName=Hash111]
+2020-09-24 10:36:49 DEBUG Incoming request user controller : User [id=null, userName=Hash112]
+2020-09-24 10:36:49 DEBUG Incoming request user service : User [id=null, userName=Hash112]
+2020-09-24 10:37:03 DEBUG Incoming request user controller : User [id=null, userName=Hash112]
+2020-09-24 10:37:03 DEBUG Incoming request user service : User [id=null, userName=Hash112]
+2020-09-24 10:57:52 DEBUG Incoming request user controller : User [id=null, userName=Hash112]
+2020-09-24 10:57:52 DEBUG Incoming request user service : User [id=null, userName=Hash112]
+2020-09-24 11:49:24 DEBUG Incoming request user controller : User [id=null, userName=Hash112]
+2020-09-24 11:49:24 DEBUG Incoming request user service : User [id=null, userName=Hash112]
+2020-09-24 11:49:31 DEBUG Incoming request user controller : User [id=null, userName=Hash113]
+2020-09-24 11:49:31 DEBUG Incoming request user service : User [id=null, userName=Hash113]
+2020-09-24 11:49:40 DEBUG Incoming request user controller : User [id=null, userName=Hash113]
+2020-09-24 11:49:40 DEBUG Incoming request user service : User [id=null, userName=Hash113]
+2020-09-24 12:25:17 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 12:25:17 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 12:25:17 ERROR Fields should not be null
+2020-09-24 12:29:12 DEBUG Incoming request user controller : User [id=null, userName=Ojas1001]
+2020-09-24 12:29:18 DEBUG Incoming request user service : User [id=null, userName=Ojas1001]
+2020-09-24 12:30:19 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 12:30:25 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 12:30:33 ERROR Fields should not be null
+2020-09-24 12:32:46 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 12:32:52 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 12:33:02 ERROR Fields should not be null
+2020-09-24 12:35:37 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 12:36:21 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 12:36:25 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 12:36:30 ERROR Fields should not be null
+2020-09-24 12:40:44 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 12:40:49 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 12:40:53 ERROR Fields should not be null
+2020-09-24 12:41:34 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 12:41:38 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 12:41:42 ERROR Fields should not be null
+2020-09-24 12:42:38 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 12:42:43 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 12:42:48 ERROR Fields should not be null
+2020-09-24 13:04:16 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 13:04:20 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 13:04:24 ERROR Fields should not be null
+2020-09-24 13:04:33 ERROR Exception caught : user request object fields 
+2020-09-24 13:09:01 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 13:09:07 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 13:09:10 ERROR Fields should not be null
+2020-09-24 13:09:13 ERROR Exception caught : user request object fields 
+2020-09-24 13:18:35 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 13:18:38 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 13:18:41 ERROR Fields should not be null
+2020-09-24 13:18:51 ERROR Exception caught : user request object fields 
+2020-09-24 13:37:10 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 13:38:15 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 13:38:22 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 13:38:25 ERROR Fields should not be null
+2020-09-24 13:38:28 ERROR Exception caught : Fields must not be null 
+2020-09-24 13:40:49 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 13:40:53 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 13:40:57 ERROR Fields should not be null
+2020-09-24 13:43:16 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 13:43:19 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 13:43:23 ERROR Fields should not be null
+2020-09-24 17:40:12 DEBUG Incoming request user controller : User [id=null, userName=Ojas]
+2020-09-24 17:40:12 DEBUG Incoming request user service : User [id=null, userName=Ojas]
+2020-09-24 18:16:06 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 18:16:06 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 18:16:06 ERROR Fields should not be null
+2020-09-24 18:17:39 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 18:17:39 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 18:17:39 ERROR Fields should not be null
+2020-09-24 18:49:13 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 18:49:13 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 18:49:13 ERROR Fields should not be null
+2020-09-24 18:50:05 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 18:50:05 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 18:50:05 ERROR Fields should not be null
+2020-09-24 18:50:15 DEBUG Incoming request user controller : User [id=null, userName=OJas201]
+2020-09-24 18:50:15 DEBUG Incoming request user service : User [id=null, userName=OJas201]
+2020-09-24 18:55:52 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 18:55:52 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 18:55:52 ERROR Fields should not be null
+2020-09-24 18:58:51 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 18:58:51 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 18:58:51 ERROR Fields should not be null
+2020-09-24 19:55:32 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 19:55:32 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 19:55:32 ERROR Fields should not be null
+2020-09-24 19:57:56 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 19:57:56 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 19:57:56 ERROR Fields should not be null
+2020-09-24 19:58:34 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 19:58:34 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 19:58:34 ERROR Fields should not be null
+2020-09-24 19:58:56 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 19:58:56 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 19:58:56 ERROR Fields should not be null
+2020-09-24 19:59:36 DEBUG Incoming request user controller : User [id=null, userName=Ojas]
+2020-09-24 19:59:36 DEBUG Incoming request user service : User [id=null, userName=Ojas]
+2020-09-24 20:01:15 DEBUG Incoming request user controller : User [id=null, userName=Ojas]
+2020-09-24 20:01:15 DEBUG Incoming request user service : User [id=null, userName=Ojas]
+2020-09-24 20:01:37 DEBUG Incoming request user controller : User [id=null, userName=]
+2020-09-24 20:01:37 DEBUG Incoming request user service : User [id=null, userName=]
+2020-09-24 20:01:37 ERROR Fields should not be null
+2020-09-24 20:03:45 DEBUG Incoming request user controller : User [id=null, userName=null]
+2020-09-24 20:03:45 DEBUG Incoming request user service : User [id=null, userName=null]
+2020-09-24 20:03:45 ERROR Fields should not be null
+2020-09-24 20:03:52 DEBUG Incoming request user controller : User [id=null, userName=null]
+2020-09-24 20:03:52 DEBUG Incoming request user service : User [id=null, userName=null]
+2020-09-24 20:03:52 ERROR Fields should not be null
+2020-09-24 20:04:02 DEBUG Incoming request user controller : User [id=null, userName=   ]
+2020-09-24 20:04:02 DEBUG Incoming request user service : User [id=null, userName=   ]
+2020-09-24 20:05:16 DEBUG Incoming request user controller : User [id=null, userName=   ]
+2020-09-24 20:05:16 DEBUG Incoming request user service : User [id=null, userName=   ]
+2020-09-24 20:05:16 ERROR Fields should not be null
+2020-09-24 20:05:40 DEBUG Incoming request user controller : User [id=null, userName=   OJAS Hash   ]
+2020-09-24 20:05:40 DEBUG Incoming request user service : User [id=null, userName=   OJAS Hash   ]
+2020-09-24 20:18:15 DEBUG Incoming request user controller : User [id=null, userName=   OJAS Hash   ]
+2020-09-24 20:18:15 DEBUG Incoming request user service : User [id=null, userName=   OJAS Hash   ]
+2020-09-24 20:20:08 DEBUG Incoming request user controller : User [id=null, userName=   OJAS Hash   ]
+2020-09-24 20:20:08 DEBUG Incoming request user service : User [id=null, userName=   OJAS Hash   ]
+2020-09-24 20:20:41 DEBUG Incoming request user controller : User [id=null, userName=ojas1]
+2020-09-24 20:20:41 DEBUG Incoming request user service : User [id=null, userName=ojas1]
+2020-09-24 20:20:55 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:20:55 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-24 20:25:10 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:25:10 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-24 20:28:29 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:28:40 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-24 20:31:10 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:31:14 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-24 20:32:52 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:33:51 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:33:51 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-24 20:37:58 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:37:58 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-24 20:38:04 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:38:04 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-24 20:38:17 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:38:17 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-24 20:41:02 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:41:02 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-24 20:41:07 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:41:07 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-24 20:41:08 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:41:08 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-24 20:41:40 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:41:40 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-24 20:41:51 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:41:51 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-24 20:45:30 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:45:30 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-24 20:47:26 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:47:26 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-24 20:48:53 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:48:53 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-24 20:49:09 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:49:09 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-24 20:49:43 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:49:43 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-24 20:51:41 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:51:41 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-24 20:53:41 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:53:41 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-24 20:53:44 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:53:44 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-24 20:54:22 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-24 20:54:22 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-25 09:25:43 DEBUG Incoming request user controller : User [id=null, userName=murali]
+2020-09-25 09:25:43 DEBUG Incoming request user service : User [id=null, userName=murali]
+2020-09-25 09:25:49 DEBUG Incoming request user controller : User [id=null, userName=Ojas]
+2020-09-25 09:25:49 DEBUG Incoming request user service : User [id=null, userName=Ojas]
+2020-09-25 09:26:23 DEBUG Incoming request job controller : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=[Java, Angular, DotNet], userInfo=User [id=null, userName=Ojas]]
+2020-09-25 09:26:23 DEBUG Incoming request job service : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=[Java, Angular, DotNet], userInfo=User [id=null, userName=Ojas]]
+2020-09-25 09:26:23 ERROR Fields should not be null
+2020-09-25 09:28:51 DEBUG Incoming request job controller : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=[Java, Angular, DotNet], userInfo=User [id=null, userName=Ojas]]
+2020-09-25 09:28:51 DEBUG Incoming request job service : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=[Java, Angular, DotNet], userInfo=User [id=null, userName=Ojas]]
+2020-09-25 09:28:51 ERROR Fields should not be null
+2020-09-25 09:29:48 DEBUG Incoming request job controller : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=[Java, Angular, DotNet], userInfo=User [id=null, userName=Ojas]]
+2020-09-25 09:29:48 DEBUG Incoming request job service : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=[Java, Angular, DotNet], userInfo=User [id=null, userName=Ojas]]
+2020-09-25 09:31:58 DEBUG Incoming request job controller : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=[Java, Angular, DotNet], userInfo=User [id=null, userName=Ojas]]
+2020-09-25 09:31:58 DEBUG Incoming request job service : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=[Java, Angular, DotNet], userInfo=User [id=null, userName=Ojas]]
+2020-09-25 09:34:06 DEBUG Incoming request job controller : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=[Java, Angular, DotNet], userInfo=User [id=null, userName=Ojas]]
+2020-09-25 09:34:06 DEBUG Incoming request job service : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=[Java, Angular, DotNet], userInfo=User [id=null, userName=Ojas]]
+2020-09-25 09:34:10 DEBUG Incoming request job service : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=[Java, Angular, DotNet], userInfo=User [id=null, userName=Ojas]]
+2020-09-25 09:46:23 DEBUG Incoming request job controller : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=[Java, Angular, DotNet], userInfo=User [id=null, userName=Ojas]]
+2020-09-25 09:46:23 DEBUG Incoming request job service : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=[Java, Angular, DotNet], userInfo=User [id=null, userName=Ojas]]
+2020-09-25 09:46:24 DEBUG Incoming request job controller : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=[Java, Angular, DotNet], userInfo=User [id=null, userName=Ojas]]
+2020-09-25 09:46:24 DEBUG Incoming request job service : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=[Java, Angular, DotNet], userInfo=User [id=null, userName=Ojas]]
+2020-09-25 09:46:28 DEBUG Incoming request job controller : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=[Java, Angular, DotNet], userInfo=User [id=null, userName=Ojas]]
+2020-09-25 09:46:28 DEBUG Incoming request job service : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=[Java, Angular, DotNet], userInfo=User [id=null, userName=Ojas]]
+2020-09-25 09:48:16 DEBUG Incoming request jobid method : 1
+2020-09-25 09:48:16 DEBUG Incoming request job service id method : 1
+2020-09-25 09:49:22 DEBUG Incoming request jobid method : 0
+2020-09-25 09:49:22 DEBUG Incoming request job service id method : 0
+2020-09-25 09:49:22 ERROR Invalid request
+2020-09-25 09:50:07 DEBUG Incoming request jobid method : 0
+2020-09-25 09:50:07 DEBUG Incoming request job service id method : 0
+2020-09-25 09:50:07 ERROR Invalid request
+2020-09-25 09:50:20 DEBUG Incoming request jobid method : 1
+2020-09-25 09:50:20 DEBUG Incoming request job service id method : 1
+2020-09-25 09:51:02 DEBUG Incoming request jobid method : 2
+2020-09-25 09:51:02 DEBUG Incoming request job service id method : 2
+2020-09-25 09:55:49 DEBUG Incoming request type method : Design
+2020-09-25 09:55:49 DEBUG Incoming request job service type method : Design
+2020-09-25 10:03:38 DEBUG Incoming request jobid method : 5
+2020-09-25 10:03:38 DEBUG Incoming request job service id method : 5
+2020-09-25 10:05:20 DEBUG Incoming request jobid method : 5
+2020-09-25 10:05:20 DEBUG Incoming request job service id method : 5
+2020-09-25 10:11:52 DEBUG Incoming request jobid method : 5
+2020-09-25 10:11:52 DEBUG Incoming request job service id method : 5
+2020-09-25 10:12:22 ERROR Record not found
+2020-09-25 10:15:36 DEBUG Incoming request type method : Design
+2020-09-25 10:15:36 DEBUG Incoming request job service type method : Design
+2020-09-25 10:15:36 ERROR Record not found
+2020-09-25 10:15:46 DEBUG Incoming request type method : ui Design
+2020-09-25 10:15:46 DEBUG Incoming request job service type method : ui Design
+2020-09-25 10:24:44 DEBUG Incoming request experience method : 5
+2020-09-25 10:24:44 DEBUG Incoming request job service experience method : 5
+2020-09-25 10:24:44 ERROR Record not found
+2020-09-25 10:24:58 DEBUG Incoming request experience method : 3
+2020-09-25 10:24:58 DEBUG Incoming request job service experience method : 3
+2020-09-25 10:44:50 DEBUG Incoming request country method : ind
+2020-09-25 10:44:50 DEBUG Incoming request job service country method : ind
+2020-09-25 10:44:50 ERROR Record not found
+2020-09-25 10:45:03 DEBUG Incoming request country method : usa
+2020-09-25 10:45:03 DEBUG Incoming request job service country method : usa
+2020-09-25 10:45:11 DEBUG Incoming request availability method : part-time
+2020-09-25 10:45:11 DEBUG Incoming request job service availability method : part-time
+2020-09-25 10:45:11 ERROR Record not found
+2020-09-25 10:45:35 DEBUG Incoming request availability method : full-time
+2020-09-25 10:45:35 DEBUG Incoming request job service availability method : full-time
+2020-09-25 10:45:47 DEBUG Incoming request language method : english
+2020-09-25 10:45:47 DEBUG Incoming request job service language method : english
+2020-09-25 10:45:59 DEBUG Incoming request language method : gf
+2020-09-25 10:45:59 DEBUG Incoming request job service language method : gf
+2020-09-25 10:45:59 ERROR Record not found
+2020-09-25 10:46:05 DEBUG Incoming request language method : english
+2020-09-25 10:46:05 DEBUG Incoming request job service language method : english
+2020-09-25 10:46:17 DEBUG Incoming request getalljob method 
+2020-09-25 10:46:17 DEBUG Incoming request job service getalljob method 
+2020-09-25 10:46:46 DEBUG Incoming request skills method : dotnet
+2020-09-25 10:46:46 DEBUG Incoming request job service skills method : dotnet
+2020-09-25 10:46:52 DEBUG Incoming request skills method : dotnetj
+2020-09-25 10:46:52 DEBUG Incoming request job service skills method : dotnetj
+2020-09-25 10:46:52 ERROR Record not found
+2020-09-25 10:46:57 DEBUG Incoming request skills method : dotnet
+2020-09-25 10:46:57 DEBUG Incoming request job service skills method : dotnet
+2020-09-25 10:47:09 DEBUG Incoming request payrate method : 2729
+2020-09-25 10:47:09 DEBUG Incoming request job service payrate method : 2729
+2020-09-25 10:47:09 ERROR Record not found
+2020-09-25 10:47:43 DEBUG Incoming request payrate method : 2730
+2020-09-25 10:47:43 DEBUG Incoming request job service payrate method : 2730
+2020-09-25 22:06:52 DEBUG Incoming request user controller : User [id=null, userName=OJAS5]
+2020-09-25 22:06:52 DEBUG Incoming request user service : User [id=null, userName=OJAS5]
+2020-09-25 22:07:17 DEBUG Incoming request user controller : User [id=null, userName=OJAS5]
+2020-09-25 22:07:17 DEBUG Incoming request user service : User [id=null, userName=OJAS5]
+2020-09-25 22:07:24 DEBUG Incoming request user controller : User [id=null, userName=OJAS5]
+2020-09-25 22:07:24 DEBUG Incoming request user service : User [id=null, userName=OJAS5]
+2020-09-25 22:07:25 DEBUG Incoming request user controller : User [id=null, userName=OJAS5]
+2020-09-25 22:07:25 DEBUG Incoming request user service : User [id=null, userName=OJAS5]
+2020-09-25 22:08:52 DEBUG Incoming request user controller : User [id=null, userName=OJAS5]
+2020-09-25 22:08:52 DEBUG Incoming request user service : User [id=null, userName=OJAS5]
+2020-09-25 22:13:59 DEBUG Incoming request user controller : User [id=null, userName=OJAS5]
+2020-09-25 22:13:59 DEBUG Incoming request user service : User [id=null, userName=OJAS5]
+2020-09-25 22:18:12 DEBUG Incoming request user controller : User [id=null, userName=OJAS5]
+2020-09-25 22:18:12 DEBUG Incoming request user service : User [id=null, userName=OJAS5]
+2020-09-25 22:20:49 DEBUG Incoming request user controller : User [id=null, userName=OJAS5]
+2020-09-25 22:20:49 DEBUG Incoming request user service : User [id=null, userName=OJAS5]
+2020-09-25 22:21:33 DEBUG Incoming request user controller : User [id=null, userName=OJAS5]
+2020-09-25 22:21:33 DEBUG Incoming request user service : User [id=null, userName=OJAS5]
+2020-09-25 22:22:03 DEBUG Incoming request user controller : User [id=null, userName=OJAS10]
+2020-09-25 22:22:03 DEBUG Incoming request user service : User [id=null, userName=OJAS10]
+2020-09-25 22:22:05 DEBUG Incoming request user controller : User [id=null, userName=OJAS10]
+2020-09-25 22:22:05 DEBUG Incoming request user service : User [id=null, userName=OJAS10]
+2020-09-26 11:01:33 DEBUG Incoming request user controller : User [id=null, userName=OJAS1]
+2020-09-26 11:01:33 DEBUG Incoming request user service : User [id=null, userName=OJAS1]
+2020-09-26 11:01:38 DEBUG Incoming request user controller : User [id=null, userName=OJAS2]
+2020-09-26 11:01:38 DEBUG Incoming request user service : User [id=null, userName=OJAS2]
+2020-09-26 11:01:44 DEBUG Incoming request user controller : User [id=null, userName=OJAS3]
+2020-09-26 11:01:44 DEBUG Incoming request user service : User [id=null, userName=OJAS3]
+2020-09-26 11:02:38 DEBUG Incoming request user controller : User [id=null, userName=OJAS4]
+2020-09-26 11:02:38 DEBUG Incoming request user service : User [id=null, userName=OJAS4]
+2020-09-26 11:05:48 DEBUG Incoming request job controller : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=Java, Angular, DotNet, userInfo=User [id=null, userName=Ojas]]
+2020-09-26 11:05:48 DEBUG Incoming request job service : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=Java, Angular, DotNet, userInfo=User [id=null, userName=Ojas]]
+2020-09-26 11:05:58 DEBUG Incoming request job controller : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=Java, Angular, DotNet, userInfo=User [id=null, userName=Ojas]]
+2020-09-26 11:05:58 DEBUG Incoming request job service : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=Java, Angular, DotNet, userInfo=User [id=null, userName=Ojas]]
+2020-09-26 11:19:48 DEBUG Incoming request job controller : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=Java, Angular, DotNet, userInfo=User [id=null, userName=Ojas]]
+2020-09-26 11:19:48 DEBUG Incoming request job service : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=Java, Angular, DotNet, userInfo=User [id=null, userName=Ojas]]
+2020-09-26 11:19:48 ERROR Fields should not be null
+2020-09-26 11:21:02 DEBUG Incoming request job controller : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=Java, Angular, DotNet, userInfo=User [id=null, userName=Ojas]]
+2020-09-26 11:21:02 DEBUG Incoming request job service : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=Java, Angular, DotNet, userInfo=User [id=null, userName=Ojas]]
+2020-09-26 11:22:20 DEBUG Incoming request jobid method : 5
+2020-09-26 11:22:20 DEBUG Incoming request job service id method : 5
+2020-09-26 11:22:20 ERROR Record not found
+2020-09-26 11:22:25 DEBUG Incoming request jobid method : 3
+2020-09-26 11:22:25 DEBUG Incoming request job service id method : 3
+2020-09-26 12:28:16 DEBUG Incoming request uploadfile method 
+2020-09-26 12:28:16 INFO  Please Upload Excel File Only 
+2020-09-26 12:28:46 DEBUG Incoming request uploadfile method 
+2020-09-26 12:48:06 DEBUG Incoming request uploadfile method 
+2020-09-26 12:52:02 DEBUG Incoming request uploadfile method 
+2020-09-26 12:52:43 DEBUG Incoming request uploadfile method 
+2020-09-26 12:54:35 DEBUG Incoming request uploadfile method 
+2020-09-26 12:58:10 DEBUG Incoming request uploadfile method 
+2020-09-26 12:59:17 DEBUG Incoming request uploadfile method 
+2020-09-26 14:17:42 DEBUG Incoming request user controller : User [id=null, userName=OJAS1]
+2020-09-26 14:17:42 DEBUG Incoming request user service : User [id=null, userName=OJAS1]
+2020-09-26 14:18:01 DEBUG Incoming request job controller : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=Java, Angular, DotNet, userInfo=User [id=null, userName=Ojas]]
+2020-09-26 14:18:01 DEBUG Incoming request job service : Job [id=null, jobTitle=Java Developer, jobDescription=Need POC for Ecommerce website using spring boot with micro service., country=USA, state=TN, availability=Full-Time, replyRate=0, payRate=30, experience=3, language=English, jobType=UI Design, skills=Java, Angular, DotNet, userInfo=User [id=null, userName=Ojas]]
+2020-09-28 10:57:34 DEBUG Incoming request user controller : User [id=null, userName=Gowri]
+2020-09-28 10:57:34 DEBUG Incoming request user service : User [id=null, userName=Gowri]
+2020-09-28 11:11:19 DEBUG Incoming request user controller : User [id=null, userName=Gowri1236]
+2020-09-28 11:11:19 DEBUG Incoming request user service : User [id=null, userName=Gowri1236]
+2020-09-28 11:11:44 DEBUG Incoming request user controller : User [id=null, userName=Gowri1236]
+2020-09-28 11:11:44 DEBUG Incoming request user service : User [id=null, userName=Gowri1236]
+2020-09-28 11:11:55 DEBUG Incoming request user controller : User [id=null, userName=Gowri1236567688]
+2020-09-28 11:11:55 DEBUG Incoming request user service : User [id=null, userName=Gowri1236567688]
